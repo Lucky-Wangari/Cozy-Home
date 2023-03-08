@@ -37,18 +37,13 @@
     background-color: #8594;
 
 }
-#wallart{
-    width: 100%;
-}
 #monstera{
-   float: right;
-   width: 15%;
-   /* height: 90px; */
-   position: relative;
-   top: -200px;
-   margin-bottom: 80px;
-   padding-bottom: 40px;
-   
+    margin-left: 60%;
+    width: 130%;
+    margin-top: 10%; 
+    height: 80%; 
+    
+
 }
 .container1{
    display: flex;
@@ -64,42 +59,30 @@
     gap: 30px;
 }
 .container3{
-    background-color: #ffe5d6;
-    padding-bottom: 50px;
-    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-left: 150px;
+    padding-top: 40px;
+    background-color: rgb(235, 207, 183);
+    border-radius: 170%;
+    resize: horizontal 40%;
+    margin-left: 10%;
+    width: 20%;  
 }
 .divmodern{
-    display: flex;
-    gap: 50px;
-    overflow: hidden;
-    margin-left: 10%;
-    margin: auto 50px;
+    width: 23%;
 }
-#wallart{
-    width: 110%;
+.classic{
+    width: 30%;
 }
-.popular{
-    display: flex;
-    gap: 50px;
-    margin-left: 30px;
-    background-color: #002d3d;
-    padding: 30px;
-    width: 100%;
-}
-#chair{
-    width: 120%;
-    height: 60%;
-    margin-left: 40px;
-
-}
-#kitchen{
-    width: 80%;
+.stair{
+    width: 30%;
 }
 .last{
     display: flex;
     list-style: none;
     background-color: #002d3d;
     margin-right: 20%;
+    padding-bottom: 50px;
 }
 .Newsletter{
     text-align: center;
@@ -116,6 +99,179 @@
     display: flex;
 
 }
+.design{
+    width: 100%;
+    background-color: #002d3d;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.popular{
+    width: 30%;
+    padding-left: 150px;   
+}
+.shelf{
+    width: 30%;
+}
+.mustard{
+    width: 30%;
+}
+#button{
+    text-align: center;
+    padding-left: 90px;
+}
+.guide{
+    width: 100%;
+    display: flex;
+    background-color: #ffe5d6;
+}
+#find{
+    padding-right: 70px;
+}
+#inspo{
+    margin-left: -5%;
+    font-size: medium;
+}
+#ideas{
+    margin-left: -5%;
+    font-size: small;
+}
+#exp{
+    margin-left: -5%;
+    font-size: small;
+}
+#st{
+    margin-left: -5%;
+    font-size: small;
+}
+#blo{
+    margin-left: -5%;
+    font-size: small;
+}
+.newsletter{
+    padding-bottom: 100px;
+    text-align: center;
+    background-color: #ffffff;
+}
+button{
+    background-color: peachpuff;
+}
+.home{
+    width: 20%;
+    font-size: medium;
+    margin-left: 90px;
+}
+.pay{
+    width: 20%;
+}
+.pay{
+    width: 20%;   
+}
+.pay ul li{
+    list-style-type: none;   
+}
+.room{
+    width: 20%;
+}
+.room ul li{
+    list-style: none;
+}
+.coupon{
+    width: 20%;
+}
+.coupon ul li{
+    list-style: none;
+
+}
+.finale{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 60px;
+    background-color: #002d3d;
+    padding-top: 20px;
+    font-size: smaller;
+    color: white;   
+}
+.ship{
+    width: 20%;
+}
+.ship ul li{
+    list-style: none;
+}
+#hom{
+    color: #ffac7d;
+}
+.pop{
+    width: 100%;
+    color: #ffac7d;
+    margin-left: 12%;
+}
+.wood{
+    display: flex;
+    
+}
+#say{
+    margin-left: 45%;
+    font-size: medium;
+    border-radius: 5px;
+
+}
+.styli{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    /* padding-top: -140px; */
+    padding-bottom: 40px;
+    
+}
+#done{
+    border-radius: 5px;
+    background-color: rgb(243, 217, 221);
+    border: none;
+    padding-right: 130px;
+    padding-top: 5px;
+}
+#head{
+    border: none;
+    background-color: white;
+}
+#nian{
+    border: none;
+    background-color: white;
+}
+#explore{
+    color: #002d3d;
+    margin-left: 5%;
+}
+.log{
+    width: 100%;
+    /* display: flex; */
+}
+.up{
+    width: 40%;
+    float: right;
+    display: flex;
+}
+.list{
+    list-style: none;
+}
+.middle{
+    width: 30%;
+}
+.container{
+    width: 30%;
+}
+.full{
+    display: flex;
+}
+
+
+
+
+
+
+
+
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                     
